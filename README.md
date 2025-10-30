@@ -1,14 +1,11 @@
-# Autid-portfolio
+# Formal Verification Audit Portfolio BenRai
 
-# FV Audits
-
-| Audit      | Ranking in the FV Part                                                                                                        |
-| :--------- | ----------------------------------------------------------------------------------------------------------------------------- |
-| ION        | [4th](https://app.hats.finance/audit-competitions/ion-protocol-0x20c44e7b618d58f9982e28de66d8d6ee176eb481/leaderboard)        |
-| Tokemak V2 | [3rd](https://app.hats.finance/audit-competitions/tokemak-0x4a2d708ea6b0c04186ecb774cfad1e50fb5efc0b/leaderboard)             |
-| Euler V2   | [2nd](https://docs.google.com/spreadsheets/d/134AlmLXV2gbSRmsgCdK0IRU2qQtL6XhJL4uiOLayn5A/edit?gid=1970712821#gid=1970712821) |
-| Uniswap V4 | [3rd](https://docs.google.com/spreadsheets/d/1libTv86GVO0MKF9gl-4PRoVXPtp_6xEmss0HT0ZNIdo/edit?gid=1970712821#gid=1970712821) |
-| Silo V2    | [3rd](https://docs.google.com/spreadsheets/d/1libTv86GVO0MKF9gl-4PRoVXPtp_6xEmss0HT0ZNIdo/edit?gid=1970712821#gid=1970712821) |
-| Blend V2   | [3rd](https://docs.google.com/spreadsheets/d/1g0_RmhGVQJeQvn5vrAfhew-0hjq0iT0TO8OgsYPmfAg/edit?gid=1970712821#gid=1970712821) |
-| Aquarius   | [3rd](https://docs.google.com/spreadsheets/d/1fNR_A6-KsWLqw1SI9RhE_O_gi3aU8ehvWzCIYJ9MZAA/edit?gid=1970712821#gid=1970712821) |
-
+| Audit      |                                                    Ranking in the FV Part                                                     | Mutations caught |                               Link to submitted repo                               |
+| :--------- | :---------------------------------------------------------------------------------------------------------------------------: | :--------------: | :--------------------------------------------------------------------------------: |
+| ION        |    [4th](https://app.hats.finance/audit-competitions/ion-protocol-0x20c44e7b618d58f9982e28de66d8d6ee176eb481/leaderboard)     |        -         |                [repo link](https://github.com/BenRai1/ion-protocol)                |
+| Tokemak V2 |       [3rd](https://app.hats.finance/audit-competitions/tokemak-0x4a2d708ea6b0c04186ecb774cfad1e50fb5efc0b/leaderboard)       |        -         |             [repo link](https://github.com/BenRai1/tokemak-v2-core-fv)             |
+| Euler V2   | [2nd](https://docs.google.com/spreadsheets/d/134AlmLXV2gbSRmsgCdK0IRU2qQtL6XhJL4uiOLayn5A/edit?gid=1970712821#gid=1970712821) |   21 out of 27   |     [repo link](https://github.com/BenRai1/2024-05-21_euler-vault-cantina-fv)      |
+| Uniswap V4 | [3rd](https://docs.google.com/spreadsheets/d/1libTv86GVO0MKF9gl-4PRoVXPtp_6xEmss0HT0ZNIdo/edit?gid=1970712821#gid=1970712821) |   18 out of 28   | [repo link](https://github.com/BenRai1/2024-09-10-uniswap-v4-periphery-cantina-fv) |
+| Silo V2    | [3rd](https://docs.google.com/spreadsheets/d/1libTv86GVO0MKF9gl-4PRoVXPtp_6xEmss0HT0ZNIdo/edit?gid=1970712821#gid=1970712821) |   18 out of 28   |             [repo link](https://github.com/BenRai1/silo-v2-cantina-fv)             |
+| Blend V2   | [3rd](https://docs.google.com/spreadsheets/d/1g0_RmhGVQJeQvn5vrAfhew-0hjq0iT0TO8OgsYPmfAg/edit?gid=1970712821#gid=1970712821) |   21 out of 22   |          [repo link](https://github.com/BenRai1/BenRai1-2025-02-blend-fv)          |
+| Aquarius   | [3rd](https://docs.google.com/spreadsheets/d/1fNR_A6-KsWLqw1SI9RhE_O_gi3aU8ehvWzCIYJ9MZAA/edit?gid=1970712821#gid=1970712821) |   24 out of 24   |           [repo link](https://github.com/BenRai1/2025-05-08-Aquarius-FV)           |
